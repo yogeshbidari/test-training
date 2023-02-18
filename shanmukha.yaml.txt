@@ -1,0 +1,3 @@
+kind: pod
+apiVersion: v1/beta1
+spec:
